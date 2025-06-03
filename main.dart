@@ -12,5 +12,5 @@ void main() {
   String morning = "Morgen";
   String s = "Heute";
   String spa = " ";
-  print(c);
+  print(gdStr + dayStr + worldStr + timeStr + b + c + morning + s + spa);
 }
