@@ -12,5 +12,23 @@ void main() {
   String morning = "Morgen";
   String s = "Heute";
   String spa = " ";
-  print(gdStr + dayStr + worldStr + timeStr + b + c + morning + s + spa);
+  /*print(
+    gdStr +
+        spa +
+        dayStr +
+        spa +
+        worldStr +
+        spa +
+        timeStr +
+        spa +
+        b +
+        spa +
+        c +
+        spa +
+        morning +
+        spa +
+        s,
+  );*/
+  print("$d.$seven. $tweleve:$a");
+  print("$gdStr $dayStr$b\n\n$timeStr: $tweleve.$seven.$a $tweleve:$d");
 }
