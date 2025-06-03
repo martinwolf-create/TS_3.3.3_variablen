@@ -29,6 +29,6 @@ void main() {
         spa +
         s,
   );*/
-  print("$d.$seven. $tweleve:$a");
+  print("$d.$seven. $tweleve:$a\n");
   print("$gdStr $dayStr$b\n\n$timeStr: $tweleve.$seven.$a $tweleve:$d");
 }
