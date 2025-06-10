@@ -25,10 +25,13 @@ void main() {
         spa +
         c +
         spa +
+        gdStr +
+        spa +
         morning +
         spa +
-        s,
-  );*/
+        */
+  s;
+
   print("$d.$seven. $tweleve:$a\n");
-  print("$gdStr $dayStr$b\n\n$timeStr: $tweleve.$seven.$a $tweleve:$d");
+  print("\n$gdStr $dayStr$b\n\n$timeStr: $tweleve.$seven.$a $tweleve:$d");
 }
